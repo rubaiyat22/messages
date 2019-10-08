@@ -5,15 +5,15 @@ messagesenv
 
 # NODE
 # dependencies
-/node_modules
-/.pnp
+ui/node_modules
+ui/.pnp
 .pnp.js
 
 # testing
-/coverage
+ui/coverage
 
 # production
-/build
+ui/build
 
 # misc
 .DS_Store
